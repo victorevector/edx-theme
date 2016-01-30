@@ -863,7 +863,7 @@ body header.global>nav h1.logo a {
     text-shadow: none;
     background-color: transparent;
     border: 0;
-    background-image: url('http://files.victoref.com/edx/images/logo-open-edx.png');
+    background-image: url('http://edu.robo3d.com/themes/ionis/images/logo-open-edx.png');
     background-size: contain;
     background-repeat: no-repeat
 }
@@ -883,7 +883,7 @@ body header.global>nav h1.logo a {
     body header.global>nav h1.logo a {
         width: 80px;
         height: 36px;
-        background-image: url('http://files.victoref.com/edx/images/logo-edx.png')
+        background-image: url('http://edu.robo3d.com/themes/ionis/images/logo-edx.png')
     }
 }
 
