@@ -3199,9 +3199,10 @@ body .content-wrapper {
     max-height: 400px;
     box-shadow: none;
     background: 0 #3c556c;
-    background: url('http://edu.robo3d.com/themes/ionis/images/roboeduheaderdimmed.jpg');
+    background: url('http://edu.robo3d.com/themes/ionis/images/05_school_1134_1200_800.jpg');
     background-position: 33% 50%;
     background-repeat: no-repeat;
+    background-size: cover;
     border: none;
     margin: 0;
     padding: 60px 0
