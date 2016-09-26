@@ -2676,6 +2676,7 @@ body footer.global {
     color: #f7f7f7;
     padding: 20px 0;
     overflow: hidden;
+    margin-top: 5%;
     /*Edited by Victor*/
     background-color: #00A5FA;
 }
@@ -3200,6 +3201,7 @@ body .content-wrapper {
     background: 0 #3c556c;
     background: url('http://edu.robo3d.com/themes/ionis/images/roboeduheaderdimmed.jpg');
     background-position: 33% 50%;
+    background-repeat: no-repeat;
     border: none;
     margin: 0;
     padding: 60px 0
@@ -3430,9 +3432,11 @@ body .content-wrapper {
 .content-wrapper>.home .courses .courses-listing-item .course .inner-wrapper .course-preview .course-number,
 .content-wrapper>.home .courses .courses-listing-item .course .inner-wrapper .course-preview .info-link,
 .content-wrapper>.home .courses .courses-listing-item .course .status {
-    display: none
+    display: none;
 }
-
+header.course-image {
+    display: block !important;
+}
 @media (min-width:768px) {
     .content-wrapper>.home .courses .courses-listing-item {
         float: left;

@@ -906,7 +906,7 @@ body header.global>nav h2 {
     margin: .9em 0 0;
     padding: 0;
     text-shadow: none;
-    color: #f7f7f7
+    color: #000000;
 }
 
 @media (max-width:991px) {
@@ -971,12 +971,12 @@ body header.global-new>nav .nav-global a,
 body header.global.slim>nav .nav-global a,
 body header.global>nav .nav-global a {
     font: inherit;
-    font-weight: 500;
+    font-weight: 600;
     letter-spacing: inherit;
     padding: 0;
-    color: #f7f7f7;
+    color: #3c3c3c;
     text-transform: none;
-    border: 0
+    border: 0;
 }
 
 .view-login header.global-new>nav .nav-global a:hover,
